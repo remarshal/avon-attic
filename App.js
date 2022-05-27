@@ -1,6 +1,8 @@
 import React from "react";
 import WelcomeScreen from "./app/screens/WelcomeScreen";
 
-export default function App() {
+function App() {
   return <WelcomeScreen />;
 }
+
+export default App;
